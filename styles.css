@@ -17,6 +17,11 @@ header {
     text-align: center;
 }
 
+header img {
+    max-height: 150px;
+    margin-right: 20px;
+}
+
 header nav ul {
     list-style: none;
 }
